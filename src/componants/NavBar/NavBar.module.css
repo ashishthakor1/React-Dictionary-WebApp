@@ -1,0 +1,29 @@
+/* style={{ position: 'fixed', zIndex: 1, width: '100%' }} */
+.header {
+  position: fixed;
+  margin: 10px 0px 10px 0px;
+  z-index: 1;
+  width: 100%;
+}
+.menu {
+  font-size: 30px;
+  height: 35px;
+  background-color: aqua;
+}
+.rightStyle {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  margin-left: 10px;
+  font-size: 30px;
+}
+.imgStyle {
+  height: 60px;
+  width: 180px;
+}
+.imgStyle:hover {
+  background-color: #001529;
+}
+.menuItem {
+  background-color: brown;
+}
